@@ -4,7 +4,6 @@ metadata:
   name: my-s3-bucket-oumayma1
 spec:
   forProvider:
-    objectLockEnabled: false
     region: us-east-2
     tags:
       Name: SampleBucket
