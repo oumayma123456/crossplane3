@@ -11,11 +11,6 @@ spec:
     name: default
 status:
   atProvider:
-    acl: 'public-read'
-    Tags:
-     Name: SampleBucket
-    tagsAll:
-     Name: SampleBucket
     versioning: 
       - enabled: true
         mfaDelete: false   
